@@ -1,0 +1,14 @@
+*{
+	margin: 0; padding: 0; box-sizing: border-box;
+	font-family: 'Ibarra Real Nova', serif; quotes:  
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 80vh;
+ }
+
+.aboutmig{
+	width: 100%;
+	height: 250px!important;
+}
